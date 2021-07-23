@@ -86,7 +86,8 @@
       <HintPath>..\packages\VisioForge.DotNet.Core.TRIAL.11.1.40\lib\net40-client\VisioForge.Controls.UI.Dialogs.dll</HintPath>
     </Reference>
     <Reference Include="VisioForge.DirectX, Version=2.6.3.0, Culture=neutral, PublicKeyToken=2f064561f42d5b6a, processorArchitecture=MSIL">
-      <HintPath>..\packages\VisioForge.DotNet.Core.TRIAL.11.1.40\lib\net40-client\VisioForge.DirectX.dll</HintPath>
+      <HintPath>..\packages\VisioForge.DotNet.Core.TRIAL.11.1.45\lib\net40-client\VisioForge.DirectX.dll</HintPath>
+      <Private>True</Private>
     </Reference>
     <Reference Include="VisioForge.MediaFramework, Version=11.1.40.0, Culture=neutral, PublicKeyToken=14e66dd726c53f11, processorArchitecture=MSIL">
       <HintPath>..\packages\VisioForge.DotNet.Core.TRIAL.11.1.40\lib\net40-client\VisioForge.MediaFramework.dll</HintPath>
