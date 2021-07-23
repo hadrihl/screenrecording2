@@ -1,5 +1,6 @@
 C:\Users\hdx\Desktop\repository\tmp_workspace__delete-this\screenrecording2\ScreenRecording2\bin\Debug\ScreenRecording2.exe.config
 C:\Users\hdx\Desktop\repository\tmp_workspace__delete-this\screenrecording2\ScreenRecording2\bin\Debug\ScreenRecording2.exe
+C:\Users\hdx\Desktop\repository\tmp_workspace__delete-this\screenrecording2\ScreenRecording2\bin\Debug\ScreenRecording2.pdb
 C:\Users\hdx\Desktop\repository\tmp_workspace__delete-this\screenrecording2\ScreenRecording2\bin\Debug\Google.Apis.Auth.dll
 C:\Users\hdx\Desktop\repository\tmp_workspace__delete-this\screenrecording2\ScreenRecording2\bin\Debug\Google.Apis.Auth.PlatformServices.dll
 C:\Users\hdx\Desktop\repository\tmp_workspace__delete-this\screenrecording2\ScreenRecording2\bin\Debug\Google.Apis.Core.dll
@@ -8,7 +9,14 @@ C:\Users\hdx\Desktop\repository\tmp_workspace__delete-this\screenrecording2\Scre
 C:\Users\hdx\Desktop\repository\tmp_workspace__delete-this\screenrecording2\ScreenRecording2\bin\Debug\Google.Apis.Oauth2.v2.dll
 C:\Users\hdx\Desktop\repository\tmp_workspace__delete-this\screenrecording2\ScreenRecording2\bin\Debug\Google.Apis.PlatformServices.dll
 C:\Users\hdx\Desktop\repository\tmp_workspace__delete-this\screenrecording2\ScreenRecording2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hdx\Desktop\repository\tmp_workspace__delete-this\screenrecording2\ScreenRecording2\bin\Debug\VisioForge.Controls.dll
+C:\Users\hdx\Desktop\repository\tmp_workspace__delete-this\screenrecording2\ScreenRecording2\bin\Debug\VisioForge.Controls.UI.Dialogs.dll
+C:\Users\hdx\Desktop\repository\tmp_workspace__delete-this\screenrecording2\ScreenRecording2\bin\Debug\VisioForge.Controls.UI.dll
 C:\Users\hdx\Desktop\repository\tmp_workspace__delete-this\screenrecording2\ScreenRecording2\bin\Debug\VisioForge.DirectX.dll
+C:\Users\hdx\Desktop\repository\tmp_workspace__delete-this\screenrecording2\ScreenRecording2\bin\Debug\VisioForge.MediaFramework.dll
+C:\Users\hdx\Desktop\repository\tmp_workspace__delete-this\screenrecording2\ScreenRecording2\bin\Debug\VisioForge.Shared.dll
+C:\Users\hdx\Desktop\repository\tmp_workspace__delete-this\screenrecording2\ScreenRecording2\bin\Debug\VisioForge.Tools.dll
+C:\Users\hdx\Desktop\repository\tmp_workspace__delete-this\screenrecording2\ScreenRecording2\bin\Debug\VisioForge.Types.dll
 C:\Users\hdx\Desktop\repository\tmp_workspace__delete-this\screenrecording2\ScreenRecording2\bin\Debug\Google.Apis.pdb
 C:\Users\hdx\Desktop\repository\tmp_workspace__delete-this\screenrecording2\ScreenRecording2\bin\Debug\Google.Apis.xml
 C:\Users\hdx\Desktop\repository\tmp_workspace__delete-this\screenrecording2\ScreenRecording2\bin\Debug\Google.Apis.Auth.pdb
@@ -26,3 +34,5 @@ C:\Users\hdx\Desktop\repository\tmp_workspace__delete-this\screenrecording2\Scre
 C:\Users\hdx\Desktop\repository\tmp_workspace__delete-this\screenrecording2\ScreenRecording2\obj\Debug\ScreenRecording.csproj.GenerateResource.cache
 C:\Users\hdx\Desktop\repository\tmp_workspace__delete-this\screenrecording2\ScreenRecording2\obj\Debug\ScreenRecording.csproj.CoreCompileInputs.cache
 C:\Users\hdx\Desktop\repository\tmp_workspace__delete-this\screenrecording2\ScreenRecording2\obj\Debug\ScreenRecording.csproj.CopyComplete
+C:\Users\hdx\Desktop\repository\tmp_workspace__delete-this\screenrecording2\ScreenRecording2\obj\Debug\ScreenRecording2.exe
+C:\Users\hdx\Desktop\repository\tmp_workspace__delete-this\screenrecording2\ScreenRecording2\obj\Debug\ScreenRecording2.pdb
