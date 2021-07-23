@@ -17,12 +17,9 @@ namespace ScreenRecording2
         {
             videoCapture1.Screen_Capture_Source = new VisioForge.Types.Sources.ScreenCaptureSourceSettings()
             {
-                Right = 1920,
-                Bottom = 1080,
-                FrameRate = 30,
-                GrabMouseCursor = false
-
+                FullScreen = true
             };
+
             videoCapture1.Audio_PlayAudio = false;
             videoCapture1.Audio_RecordAudio = true;
             if (videoCapture1.Audio_CaptureDevicesInfo.Any())
@@ -39,13 +36,13 @@ namespace ScreenRecording2
         public void stopRecording()
         {
             videoCapture1.Stop();
-            updateTime();
+            //updateTime();
         }
 
         public Form1()
         {
             InitializeComponent();
-            updateTime();
+            //updateTime();
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -56,6 +53,9 @@ namespace ScreenRecording2
         private void button2_Click(object sender, EventArgs e)
         {
             stopRecording();
+            this.Hide();
+            Form2 frm2 = new Form2();
+            frm2.Show();
         }
     }
 }

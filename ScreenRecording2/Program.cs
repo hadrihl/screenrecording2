@@ -13,16 +13,7 @@ namespace ScreenRecording2
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Console.WriteLine("Screen Recording is Started!");
-            Form1 frm = new Form1();
-            frm.startRecording();
-            Console.WriteLine("Please Enter to Stop the Recording!");
-            var rl = Console.ReadLine();
-            if (rl != null)
-            {
-                frm.stopRecording();
-                Application.Run(new Form2());
-            }
+            Application.Run(new Form1());
         }
     }
 }
