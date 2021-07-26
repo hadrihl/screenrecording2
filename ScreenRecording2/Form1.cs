@@ -36,13 +36,11 @@ namespace ScreenRecording2
         public void stopRecording()
         {
             videoCapture1.Stop();
-            //updateTime();
         }
 
         public Form1()
         {
             InitializeComponent();
-            //updateTime();
         }
 
         private void button1_Click(object sender, EventArgs e)
